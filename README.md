@@ -5,7 +5,7 @@ grmMatrix
 Example
 -------
 
-This example uses dummy GRM files bundled with this package. It was generated from the dummy BED files in the [BEDMatrix package]() using `gcta64 --bfile example --make-grm --out example` with GCTA 1.26.0.
+This example uses dummy GRM files bundled with this package. It was generated from the dummy BED files in the [BEDMatrix package](https://cran.r-project.org/package=BEDMatrix) using `gcta64 --bfile example --make-grm --out example` with GCTA 1.26.0.
 
 To get the prefix to the dummy GRM files (`system.file` finds the full file names of files in packages and is only used to find the example data):
 
