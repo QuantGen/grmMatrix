@@ -3,6 +3,7 @@ grmMatrix
 
 [![Travis-CI Build Status](https://travis-ci.org/QuantGen/grmMatrix.svg?branch=master)](https://travis-ci.org/QuantGen/grmMatrix)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/grmMatrix)](https://cran.r-project.org/package=grmMatrix)
+[![Rdoc](http://www.rdocumentation.org/badges/version/grmMatrix)](http://www.rdocumentation.org/packages/grmMatrix)
 
 Example
 -------
