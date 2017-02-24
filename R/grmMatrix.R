@@ -20,7 +20,7 @@ initialize <- function(prefix) {
     # Determine rownames
     private$names <- paste0(ids$FID, "_", ids$IID)
     # Create Rcpp object
-    private$xptr <- .Call(grmMatrix__new, binPath, private$n)
+    private$xptr <- .Call("grmMatrix__new", binPath, private$n)
     # Remember prefix
     private$prefix <- prefix
 }
